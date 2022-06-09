@@ -1,11 +1,11 @@
 # UmiJs example demo CI/CD pipeline
 
 
-<a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/umijs"><img src="src\assests\deploy-on-elestio.png" alt="Deploy on Platform.sh" width="180px" /></a>
+<a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/umijs"><img src="src\assets\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
 Example application and CI/CD pipeline showing how to deploy a UmiJs website to elestio.
 
-<img src="src\assests\screenshot.png" alt="screenshot of the umi app" width="100%" />
+<img src="src\assets\screenshot.png" alt="screenshot of the umi app" width="100%" />
 
 ## CI/CD on Elestio
 
