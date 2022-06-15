@@ -3,6 +3,26 @@
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=Github&url=https://github.com/elestio-examples/umijs"><img src="src\assets\deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
 
+
+# UmiJs!
+
+This is a very basic example of a simple UmiJs app.
+
+
+Clone this [elestio-examples/umijs](https://github.com/elestio-examples/umijs) 
+
+```
+git clone https://github.com/elestio-examples/umijs.git
+```
+Change into project directory.
+
+```
+yarn install
+yarn start
+```
+
+This starts your app in development mode, make the changes and push.
+
 Example application and CI/CD pipeline showing how to deploy a UmiJs website to elestio.
 
 <img src="src\assets\screenshot.png" alt="screenshot of the umi app" width="100%" />
