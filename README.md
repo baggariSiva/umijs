@@ -1,6 +1,6 @@
-# UmiJs on Elestio
+# Umi.js on Elestio
 
-This is a minimal example of a UmiJs site created using create umi
+This is a minimal example of a Umi.js site created using create umi
 
 Click on the button below to deploy this repository with CI/CD on Elestio:
 
